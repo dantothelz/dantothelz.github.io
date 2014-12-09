@@ -1,0 +1,75 @@
+<!DOCTYPE xml>
+<xml>
+	<extension_version>1.0</extension_version>
+	<menu_set>1.1</menu_set>
+	<menu_name>Identity Team Bookmarks</menu_name>
+	<group name="NBCUniversal O&amp;TS">
+		<heading>Applications</heading>
+		<link url="http://lighthouse.nbcuots.com/">Lighthouse</link>
+		<link url="https://webmail.nbcuni.ge.com/exchange/">NBCUni Webmail</link>
+	</group>
+	<group name="Identity">
+		<heading>Applications</heading>
+		<link url="http://rally1.rallydev.com/">Rally</link>
+		<link url="https://econference.webex.com/econference/j.php?ED=207405357&amp;UID=506769172&amp;PW=NZmUxNDY5N2U3&amp;RT=MiMxMQ%3D%3D">WebEx</link>
+		<link url="http://www.nbcuni.com/WebExMeeting?TARGET=https://econference.webex.com/econference/j.php?ED=207405357&amp;UID=506769172&amp;PW=NZmUxNDY5N2U3&amp;RT=MiMxMQ%3D%3D">WebEx (SSO)</link>
+		<link url="http://flipper.kaiju.net/identity">Flipper</link>
+		<heading>GitHub</heading>
+		<link url="https://github.com/NBCUOTS/identity-misc">Identity-Misc Code Repository</link>
+		<link url="https://github.com/NBCUOTS/flipper">Flipper Code Repository</link>
+		<heading>Infrastructure</heading>
+		<link url="https://wiki.nbcuni.ge.com/pages/viewpage.action?spaceKey=DPTeam&amp;title=Identity+Data+Exchange%28IDX%29">Hosting Info</link>
+	</group>
+	<group name="SURF">
+		<heading>SURF Example</heading>
+		<link url="http://surfexample-dev.com/">Dev</link>
+		<link url="http://surfexample-qa.com/">QA</link>
+		<link url="http://surfexample-stage.com/">Stage</link>
+		<link url="http://surfexample-prod.com/">Prod</link>
+		<heading>Gigya Info</heading>
+		<link url="http://surfexample-dev.com/gigya.php">Dev</link>
+		<link url="http://surfexample-qa.com/gigya.php">QA</link>
+		<link url="http://surfexample-stage.com/gigya.php">Stage</link>
+		<link url="http://surfexample-prod.com/gigya.php">Prod</link>
+		<heading>Build Management</heading>
+		<link url="http://216.178.104.221:8010/waterfall">Waterfall</link>
+		<heading>GitHub</heading>
+		<link url="https://github.com/NBCUOTS/SURF">SURF Code Repository</link>
+	</group>
+	<group name="IDX">
+		<heading>IDX API Explorer</heading>
+		<link url="https://stage.idxapi.nbcuni.com/_explorer/?API_KEY=ed92611fb866486a9bb98466a36148a1">Sandbox</link>
+		<separator />
+		<link url="http://dev.idxapi.nbcuni.com/_explorer/?API_KEY=65432165432165432165432165432165">Dev</link>
+		<link url="http://qa.idxapi.nbcuni.com/_explorer/?API_KEY=65432165432165432165432165432165">QA</link>
+		<link url="https://stage.idxapi.nbcuni.com/_explorer/?API_KEY=65432165432165432165432165432165">Stage</link>
+		<link url="https://idxapi.nbcuni.com/_explorer/?API_KEY=65432165432165432165432165432165">Prod</link>
+		<heading>Build Management</heading>
+		<link url="http://216.178.104.221:8011/waterfall">Waterfall</link>
+		<heading>GitHub</heading>
+		<link url="https://github.com/NBCUOTS/IDX">IDX Code Repository</link>
+		<heading>Admin</heading>
+		<link url="http://216.178.99.189:15672/api/">RabbitMQ</link>
+	</group>
+	<group name="Gigya">
+		<heading>Documentation</heading>
+		<link url="http://developers.gigya.com/">Developer Documentation</link>
+		<link url="http://developers.gigya.com/020_Client_API/010_Socialize/010_Objects/User_object">Data From Social Networks</link>
+		<heading>Console</heading>
+		<link url="https://platform.gigya.com/">Console sign-in</link>
+	</group>
+	<group name="KT &amp; Docs">
+		<heading>Wiki</heading>
+		<link url="http://wiki.inbcu.com/identitywiki/index.php/Main_Page">Identity Wiki</link>
+		<link url="http://wiki.inbcu.com/identitywiki/index.php/IDX_troubleshooting_checklist">Troubleshooting Checklist</link>
+		<heading>Basecamp</heading>
+		<link url="https://nbcudps.basecamphq.com/projects/11758777/">Basecamp</link>
+		<link url="https://nbcudps.basecamphq.com/projects/10542801/posts/78108503/comments">SURF &amp; IDX Overview</link>
+		<link url="https://nbcudps.basecamphq.com/projects/10542801/posts/74395714/comments">SURF Config.json</link>
+		<heading>Writeboard</heading>
+		<link url="https://123.writeboard.com/uypuir10kwmfp331edqob29y">Brand Config &amp; Set up</link>
+		<heading>O&amp;TS Tech News Answers</heading>
+		<link url="http://o-ts.inbcu.com/answers/identity-program-roadmap">Identity Roadmap</link>
+		<link url="http://o-ts.inbcu.com/answers/identity-program-roadmap#deployments">Deployments</link>
+	</group>
+</xml>
