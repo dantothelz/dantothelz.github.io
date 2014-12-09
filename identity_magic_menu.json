@@ -1,3 +1,324 @@
 {
-	"text": "frogs"
+    "menudef": {
+        "extension_version": "2.0",
+        "menu_set": "1.2",
+        "menu_name": "Identity Team Bookmarks",
+        "contents": {
+            "groups": [
+                {
+                    "name": "NBCUniversal O&TS",
+                    "sections": [
+                        {
+                            "heading": "Applications",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Lighthouse",
+                                    "url": "http://lighthouse.nbcuots.com/"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "NBCUni Webmail",
+                                    "url": "https://webmail.nbcuni.ge.com/exchange/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Identity",
+                    "sections": [
+                        {
+                            "heading": "Applications",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Rally",
+                                    "url": "http://rally1.rallydev.com/"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "WebEx",
+                                    "url": "https://econference.webex.com/econference/j.php?ED=207405357&UID=506769172&PW=NZmUxNDY5N2U3&RT=MiMxMQ%3D%3D"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "WebEx (SSO)",
+                                    "url": "http://www.nbcuni.com/WebExMeeting?TARGET=https://econference.webex.com/econference/j.php?ED=207405357&UID=506769172&PW=NZmUxNDY5N2U3&RT=MiMxMQ%3D%3D"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Flipper",
+                                    "url": "http://flipper.kaiju.net/identity"
+                                }
+                            ]
+                        },
+                        {
+                            "heading": "GitHub",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Identity-Misc Code Repository",
+                                    "url": "https://github.com/NBCUOTS/identity-misc"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Flipper Code Repository",
+                                    "url": "https://github.com/NBCUOTS/flipper"
+                                }
+                            ]
+                        },
+                        {
+                            "heading": "Infrastructure",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Hosting Info",
+                                    "url": "https://wiki.nbcuni.ge.com/pages/viewpage.action?spaceKey=DPTeam&title=Identity+Data+Exchange%28IDX%29"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SURF",
+                    "sections": [
+                        {
+                            "heading": "SURF Example",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Dev",
+                                    "url": "http://surfexample-dev.com/"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "QA",
+                                    "url": "http://surfexample-qa.com/"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Stage",
+                                    "url": "http://surfexample-stage.com/"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Prod",
+                                    "url": "http://surfexample-prod.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "heading": "Gigya Info",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Dev",
+                                    "url": "http://surfexample-dev.com/gigya.php"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "QA",
+                                    "url": "http://surfexample-qa.com/gigya.php"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Stage",
+                                    "url": "http://surfexample-stage.com/gigya.php"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Prod",
+                                    "url": "http://surfexample-prod.com/gigya.php"
+                                }
+                            ]
+                        },
+                        {
+                            "heading": "Build Management",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Waterfall",
+                                    "url": "http://216.178.104.221:8010/waterfall"
+                                }
+                            ]
+                        },
+                        {
+                            "heading": "GitHub",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "SURF Code Repository",
+                                    "url": "https://github.com/NBCUOTS/SURF"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "IDX",
+                    "sections": [
+                        {
+                            "heading": "IDX API Explorer",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Sandbox",
+                                    "url": "https://stage.idxapi.nbcuni.com/_explorer/?API_KEY=ed92611fb866486a9bb98466a36148a1"
+                                },
+                                {
+                                    "type": "separator"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Dev",
+                                    "url": "https://dev.idxapi.nbcuni.com/_explorer/?API_KEY=65432165432165432165432165432165"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "QA",
+                                    "url": "https://qa.idxapi.nbcuni.com/_explorer/?API_KEY=65432165432165432165432165432165"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Stage",
+                                    "url": "https://stage.idxapi.nbcuni.com/_explorer/?API_KEY=65432165432165432165432165432165"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Prod",
+                                    "url": "https://idxapi.nbcuni.com/_explorer/?API_KEY=65432165432165432165432165432165"
+                                }
+                            ]
+                        },
+                        {
+                            "heading": "Build Management",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Waterfall",
+                                    "url": "http://216.178.104.221:8011/waterfall"
+                                }
+                            ]
+                        },
+                        {
+                            "heading": "GitHub",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "IDX Code Repository",
+                                    "url": "https://github.com/NBCUOTS/IDX"
+                                }
+                            ]
+                        },
+                        {
+                            "heading": "Admin",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "RabbitMQ",
+                                    "url": "http://216.178.99.189:15672/api/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Gigya",
+                    "sections": [
+                        {
+                            "heading": "Documentation",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Developer Documentation",
+                                    "url": "http://developers.gigya.com/"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Data From Social Networks",
+                                    "url": "http://developers.gigya.com/020_Client_API/010_Socialize/010_Objects/User_object"
+                                }
+                            ]
+                        },
+                        {
+                            "heading": "Console",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Console sign-in",
+                                    "url": "https://platform.gigya.com/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KT & Docs",
+                    "sections": [
+                        {
+                            "heading": "Wiki",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Identity Wiki",
+                                    "url": "http://wiki.inbcu.com/identitywiki/index.php/Main_Page"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Troubleshooting Checklist",
+                                    "url": "http://wiki.inbcu.com/identitywiki/index.php/IDX_troubleshooting_checklist"
+                                }
+                            ]
+                        },
+                        {
+                            "heading": "Basecamp",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Basecamp",
+                                    "url": "https://nbcudps.basecamphq.com/projects/11758777/"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "SURF & IDX Overview",
+                                    "url": "https://nbcudps.basecamphq.com/projects/10542801/posts/78108503/comments"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "SURF Config.json",
+                                    "url": "https://nbcudps.basecamphq.com/projects/10542801/posts/74395714/comments"
+                                }
+                            ]
+                        },
+                        {
+                            "heading": "Writeboard",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Brand Config & Set up",
+                                    "url": "https://123.writeboard.com/uypuir10kwmfp331edqob29y"
+                                }
+                            ]
+                        },
+                        {
+                            "heading": "O&TS Tech News Answers",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Identity Roadmap",
+                                    "url": "http://o-ts.inbcu.com/answers/identity-program-roadmap"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Deployments",
+                                    "url": "http://o-ts.inbcu.com/answers/identity-program-roadmap#deployments"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
 }
