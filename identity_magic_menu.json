@@ -89,7 +89,8 @@
                                 {
                                     "type": "link",
                                     "title": "Dev",
-                                    "url": "http://surfexample-dev.com/"
+                                    "url": "http://surfexample-dev.com/",
+                                    "class": "alphatest"
                                 },
                                 {
                                     "type": "link",
