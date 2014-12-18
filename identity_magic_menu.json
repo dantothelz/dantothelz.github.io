@@ -73,6 +73,11 @@
                             "entries": [
                                 {
                                     "type": "link",
+                                    "title": "New Relic",
+                                    "url": "https://rpm.newrelic.com"
+                                },
+                                {
+                                    "type": "link",
                                     "title": "Hosting Info",
                                     "url": "https://wiki.nbcuni.ge.com/pages/viewpage.action?spaceKey=DPTeam&title=Identity+Data+Exchange%28IDX%29"
                                 }
