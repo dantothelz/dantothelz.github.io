@@ -144,7 +144,7 @@
                             "entries": [
                                 {
                                     "type": "link",
-                                    "title": "Waterfall",
+                                    "title": "Build Bot",
                                     "url": "http://216.178.104.221:8010/waterfall"
                                 }
                             ]
@@ -202,7 +202,7 @@
                             "entries": [
                                 {
                                     "type": "link",
-                                    "title": "Waterfall",
+                                    "title": "Build Bot",
                                     "url": "http://216.178.104.221:8011/waterfall"
                                 }
                             ]
