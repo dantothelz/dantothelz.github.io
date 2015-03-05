@@ -38,6 +38,16 @@
                                 },
                                 {
                                     "type": "link",
+                                    "title": "WebEx",
+                                    "url": "https://econference.webex.com/econference/j.php?ED=207405357&UID=506769172&PW=NZmUxNDY5N2U3&RT=MiMxMQ%3D%3D"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "WebEx (SSO)",
+                                    "url": "http://www.nbcuni.com/WebExMeeting?TARGET="
+                                },
+                                {
+                                    "type": "link",
                                     "title": "Flipper",
                                     "url": "http://flipper.kaiju.net/identity"
                                 }
