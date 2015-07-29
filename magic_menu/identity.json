@@ -38,6 +38,11 @@
                                 },
                                 {
                                     "type": "link",
+                                    "title": "Rally Timesheet",
+                                    "url": "https://rally1.rallydev.com/#/14663928018d/timesheet"
+                                },
+                                {
+                                    "type": "link",
                                     "title": "WebEx",
                                     "url": "https://econference.webex.com/meet/pr206465442"
                                 },
