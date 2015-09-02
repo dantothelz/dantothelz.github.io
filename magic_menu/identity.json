@@ -105,6 +105,11 @@
                                     "type": "link",
                                     "title": "Hosting Info",
                                     "url": "https://wiki.nbcuni.ge.com/pages/viewpage.action?spaceKey=DPTeam&title=Identity+Data+Exchange%28IDX%29"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "AWS Inventory",
+                                    "url": "http://dashboard-admin.nbcuext.com:5000/list/idxsurfprod@"
                                 }
                             ]
                         }
