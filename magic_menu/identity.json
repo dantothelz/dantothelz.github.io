@@ -6,7 +6,7 @@
         "contents": {
             "groups": [
                 {
-                    "name": "NBCUniversal O&TS",
+                    "name": "NBCUniversal DPIM",
                     "sections": [
                         {
                             "heading": "Applications",
@@ -20,6 +20,11 @@
                                     "type": "link",
                                     "title": "NBCUni Webmail",
                                     "url": "https://webmail.nbcuni.ge.com/exchange/"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Slack Chat",
+                                    "url": "https://nbcuots.slack.com/"
                                 }
                             ]
                         }
@@ -55,6 +60,11 @@
                                     "type": "link",
                                     "title": "Flipper",
                                     "url": "http://flipper.kaiju.net/identity"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Slack Chat",
+                                    "url": "https://nbcuots.slack.com/messages/identity/"
                                 }
                             ]
                         },
