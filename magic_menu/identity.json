@@ -1,7 +1,7 @@
 {
     "menudef": {
         "extension_version": "2.1",
-        "menu_set": "1.4",
+        "menu_set": "1.4.0",
         "menu_name": "Identity Team Bookmarks",
         "contents": {
             "groups": [
