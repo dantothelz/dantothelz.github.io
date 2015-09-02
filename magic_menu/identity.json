@@ -68,8 +68,18 @@
                                 },
                                 {
                                     "type": "link",
+                                    "title": "Identity Automation",
+                                    "url": "https://github.com/NBCUOTS/Identity-Automation"
+                                },
+                                {
+                                    "type": "link",
                                     "title": "Flipper Code Repository",
                                     "url": "https://github.com/NBCUOTS/flipper"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Magic Menu Extension",
+                                    "url": "https://github.com/NBCUOTS/identity-misc/tree/master/identity-menu"
                                 }
                             ]
                         },
@@ -161,6 +171,21 @@
                                     "type": "link",
                                     "title": "SURF Code Repository",
                                     "url": "https://github.com/NBCUOTS/SURF"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "SURF Pending Pull Requests",
+                                    "url": "https://github.com/NBCUOTS/SURF/pulls"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "SURF Gitolite Implementation",
+                                    "url": "https://github.com/NBCUOTS/surf_management"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "SURF Environment Configs",
+                                    "url": "https://github.com/NBCUOTS/SURF-Deploy"
                                 }
                             ]
                         }
@@ -219,6 +244,16 @@
                                     "type": "link",
                                     "title": "IDX Code Repository",
                                     "url": "https://github.com/NBCUOTS/IDX"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "IDX Pending Pull Requests",
+                                    "url": "https://github.com/NBCUOTS/IDX/pulls"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "IDX Environment Configs",
+                                    "url": "https://github.com/NBCUOTS/IDX-Deploy"
                                 }
                             ]
                         },
