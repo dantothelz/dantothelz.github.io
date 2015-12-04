@@ -1,7 +1,7 @@
 {
     "menudef": {
         "extension_version": "1.0",
-        "menu_set": "1.0.0",
+        "menu_set": "1.0.1",
         "menu_name": "Grovo Forest Bookmarks",
         "contents": {
             "groups": [
@@ -9,22 +9,47 @@
                     "name": "Grovo",
                     "sections": [
                         {
-                            "heading": "Sub Section 1",
+                            "heading": "Common URLs",
                             "entries": [
                                 {
                                     "type": "link",
-                                    "title": "URL 1",
-                                    "url": "http://www.grovo.com/#1"
+                                    "title": "Home Page",
+                                    "url": "http://www.grovo.com/"
                                 },
                                 {
                                     "type": "link",
-                                    "title": "URL 2",
-                                    "url": "http://www.grovo.com/#2"
+                                    "title": "Demo",
+                                    "url": "https://demo.grovo.com/"
                                 },
                                 {
                                     "type": "link",
-                                    "title": "URL 3",
-                                    "url": "http://www.grovo.com/#3"
+                                    "title": "LDAP",
+                                    "url": "https://ldap.grovo.net"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Kibana",
+                                    "url": "https://kibana.grovo.net/"
+                                }
+                            ]
+                        },
+                        {
+                            "heading": "Directories",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Engineering Team",
+                                    "url": "https://grovolearning.atlassian.net/wiki/display/ENG/Engineering+Team"
+                                }
+                            ]
+                        },
+                        {
+                            "heading": "Fitness Center",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Fitness Class Schedule",
+                                    "url": "https://docs.google.com/spreadsheets/d/1x6n0fVY4WqNnOmecY7B_Nh5xbUuQgb-lP8f0we52nwk/edit#gid=0&vpid=A4"
                                 }
                             ]
                         }
@@ -34,98 +59,67 @@
                     "name": "Forest",
                     "sections": [
                         {
-                            "heading": "Sub Section 1",
+                            "heading": "GitHub",
                             "entries": [
                                 {
                                     "type": "link",
-                                    "title": "URL 1",
-                                    "url": "http://www.grovo.com/#1"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "URL 2",
-                                    "url": "http://www.grovo.com/#2"
+                                    "title": "All Repos",
+                                    "url": "https://github.com/GrovoLearning"
                                 },
                                 {
                                     "type": "separator"
                                 },
                                 {
                                     "type": "link",
-                                    "title": "URL 3",
-                                    "url": "http://www.grovo.com/#3"
+                                    "title": "Rhino",
+                                    "url": "https://github.com/GrovoLearning/rhino"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Odin",
+                                    "url": "https://github.com/GrovoLearning/odin"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Silva",
+                                    "url": "https://github.com/GrovoLearning/silva"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Chef Data Bags",
+                                    "url": "https://github.com/GrovoLearning/grovo-chef-repo"
                                 }
                             ]
                         },
                         {
-                            "heading": "Sub Section 2",
+                            "heading": "Hack Time",
                             "entries": [
                                 {
                                     "type": "link",
-                                    "title": "URL 1",
-                                    "url": "http://www.grovo.com/#1"
-                                },
-                                {
-                                    "type": "separator"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "URL 2",
-                                    "url": "http://www.grovo.com/#2"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "URL 3",
-                                    "url": "http://www.grovo.com/#3"
+                                    "title": "Hack Time Projects",
+                                    "url": "https://grovolearning.atlassian.net/wiki/display/GKB/Hack+time+projects"
                                 }
                             ]
                         }
                     ]
                 },
                 {
-                    "name": "Clubs",
+                    "name": "Clubz",
                     "sections": [
                         {
-                            "heading": "Sub Section 1",
+                            "heading": "Links",
                             "entries": [
                                 {
                                     "type": "link",
-                                    "title": "URL 1",
-                                    "url": "http://www.grovo.com/#1"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "URL 2",
-                                    "url": "http://www.grovo.com/#2"
+                                    "title": "Propose A New Club",
+                                    "url": "https://docs.google.com/forms/d/1LJjhpouPhFyYpnWyfAHtBq647zb-yJJSw0DcgnEdfg8/viewform"
                                 },
                                 {
                                     "type": "separator"
                                 },
                                 {
                                     "type": "link",
-                                    "title": "URL 3",
-                                    "url": "http://www.grovo.com/#3"
-                                }
-                            ]
-                        },
-                        {
-                            "heading": "Sub Section 2",
-                            "entries": [
-                                {
-                                    "type": "link",
-                                    "title": "URL 1",
-                                    "url": "http://www.grovo.com/#1"
-                                },
-                                {
-                                    "type": "separator"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "URL 2",
-                                    "url": "http://www.grovo.com/#2"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "URL 3",
+                                    "title": "Join A Club",
                                     "url": "http://www.grovo.com/#3"
                                 }
                             ]
@@ -144,11 +138,6 @@
                                     "url": "http://www.grovo.com/#1"
                                 },
                                 {
-                                    "type": "link",
-                                    "title": "URL 2",
-                                    "url": "http://www.grovo.com/#2"
-                                },
-                                {
                                     "type": "separator"
                                 },
                                 {
@@ -173,11 +162,6 @@
                                     "type": "link",
                                     "title": "URL 2",
                                     "url": "http://www.grovo.com/#2"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "URL 3",
-                                    "url": "http://www.grovo.com/#3"
                                 }
                             ]
                         }
@@ -187,48 +171,22 @@
                     "name": "On Boarding",
                     "sections": [
                         {
-                            "heading": "Sub Section 1",
+                            "heading": "Everyone",
                             "entries": [
                                 {
                                     "type": "link",
-                                    "title": "URL 1",
-                                    "url": "http://www.grovo.com/#1"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "URL 2",
-                                    "url": "http://www.grovo.com/#2"
-                                },
-                                {
-                                    "type": "separator"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "URL 3",
-                                    "url": "http://www.grovo.com/#3"
+                                    "title": "VPN",
+                                    "url": "https://grovolearning.atlassian.net/wiki/display/INFRA/Set-up+Grovo+VPN"
                                 }
                             ]
                         },
                         {
-                            "heading": "Sub Section 2",
+                            "heading": "Engineers",
                             "entries": [
                                 {
                                     "type": "link",
-                                    "title": "URL 1",
-                                    "url": "http://www.grovo.com/#1"
-                                },
-                                {
-                                    "type": "separator"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "URL 2",
-                                    "url": "http://www.grovo.com/#2"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "URL 3",
-                                    "url": "http://www.grovo.com/#3"
+                                    "title": "Tools",
+                                    "url": "https://grovolearning.atlassian.net/wiki/display/INFRA/Tools"
                                 }
                             ]
                         }
@@ -238,48 +196,22 @@
                     "name": "Social",
                     "sections": [
                         {
-                            "heading": "Sub Section 1",
+                            "heading": "Grovo's Social Media",
                             "entries": [
                                 {
                                     "type": "link",
-                                    "title": "URL 1",
-                                    "url": "http://www.grovo.com/#1"
+                                    "title": "Facebook",
+                                    "url": "https://www.facebook.com/Grovo/"
                                 },
                                 {
                                     "type": "link",
-                                    "title": "URL 2",
-                                    "url": "http://www.grovo.com/#2"
-                                },
-                                {
-                                    "type": "separator"
+                                    "title": "LinkedIn",
+                                    "url": "https://www.linkedin.com/company/grovo"
                                 },
                                 {
                                     "type": "link",
-                                    "title": "URL 3",
-                                    "url": "http://www.grovo.com/#3"
-                                }
-                            ]
-                        },
-                        {
-                            "heading": "Sub Section 2",
-                            "entries": [
-                                {
-                                    "type": "link",
-                                    "title": "URL 1",
-                                    "url": "http://www.grovo.com/#1"
-                                },
-                                {
-                                    "type": "separator"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "URL 2",
-                                    "url": "http://www.grovo.com/#2"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "URL 3",
-                                    "url": "http://www.grovo.com/#3"
+                                    "title": "Twitter",
+                                    "url": "https://twitter.com/grovo"
                                 }
                             ]
                         }
