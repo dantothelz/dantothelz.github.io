@@ -59,6 +59,32 @@
                     "name": "Forest",
                     "sections": [
                         {
+                            "heading": "Jira",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "All Project Types - All Categories",
+                                    "url": "https://grovolearning.atlassian.net/secure/BrowseProjects.jspa?selectedCategory=all"
+                                },
+                                {
+                                    "type": "separator"
+                                }
+                            ]
+                        },
+                        {
+                            "heading": "Design Documents",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Auth(orization|entication) Services",
+                                    "url": "https://docs.google.com/a/grovo.com/document/d/1sd0RVpTpK6qTHFLvdJRNxXEpFWy5WGaAnhq_vznLayA/edit?usp=sharing"
+                                },
+                                {
+                                    "type": "separator"
+                                }
+                            ]
+                        },
+                        {
                             "heading": "GitHub",
                             "entries": [
                                 {
