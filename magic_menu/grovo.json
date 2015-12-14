@@ -68,6 +68,11 @@
                                 },
                                 {
                                     "type": "separator"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Field & Forest Handbook",
+                                    "url": "https://docs.google.com/document/d/1i7Uyz1D6YifJN35Vn4DK8BlZrPO8u4bptrZz5ymuSz0/edit#"
                                 }
                             ]
                         },
@@ -76,11 +81,16 @@
                             "entries": [
                                 {
                                     "type": "link",
-                                    "title": "Auth(orization|entication) Services",
-                                    "url": "https://docs.google.com/a/grovo.com/document/d/1sd0RVpTpK6qTHFLvdJRNxXEpFWy5WGaAnhq_vznLayA/edit?usp=sharing"
+                                    "title": "MVP Design Guide",
+                                    "url": "https://docs.google.com/document/d/1M8q89lbpwMExjz4Tv5zzms_9q50IoUZmHay59qjxfs0/edit#heading=h.s8f7ks8nqhtd"
                                 },
                                 {
                                     "type": "separator"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Auth(orization|entication) Services",
+                                    "url": "https://docs.google.com/a/grovo.com/document/d/1sd0RVpTpK6qTHFLvdJRNxXEpFWy5WGaAnhq_vznLayA/edit?usp=sharing"
                                 }
                             ]
                         },
