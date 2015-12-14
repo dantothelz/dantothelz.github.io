@@ -1,7 +1,7 @@
 {
     "menudef": {
         "extension_version": "1.0",
-        "menu_set": "1.0.1",
+        "menu_set": "1.0.2",
         "menu_name": "Grovo Bookmarks",
         "contents": {
             "groups": [
