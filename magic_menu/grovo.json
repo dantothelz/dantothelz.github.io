@@ -30,6 +30,11 @@
                                     "type": "link",
                                     "title": "Kibana",
                                     "url": "https://kibana.grovo.net/"
+                                },
+                                {
+                                    "type": "link",
+                                    "title": "Confluence",
+                                    "url": "https://grovolearning.atlassian.net/wiki/"
                                 }
                             ]
                         },
