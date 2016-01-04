@@ -1,7 +1,7 @@
 {
     "menudef": {
         "extension_version": "1.0",
-        "menu_set": "1.0.2",
+        "menu_set": "1.0.3",
         "menu_name": "Grovo Bookmarks",
         "contents": {
             "groups": [
@@ -63,6 +63,16 @@
                 {
                     "name": "Forest",
                     "sections": [
+                        {
+                            "heading": "Agendas",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Forest Weekly Agenda",
+                                    "url": "https://docs.google.com/document/d/1Jms3F6dHxC5BXbZkZ2uOU7ERXxl6GhtVTj_oPZDEJdM/"
+                                }
+                            ]
+                        },
                         {
                             "heading": "Jira",
                             "entries": [
