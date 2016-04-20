@@ -1,7 +1,7 @@
 {
     "menudef": {
         "extension_version": "1.0",
-        "menu_set": "1.0.3",
+        "menu_set": "1.1.0",
         "menu_name": "Grovo Bookmarks",
         "contents": {
             "groups": [
@@ -13,237 +13,267 @@
                             "entries": [
                                 {
                                     "type": "link",
-                                    "title": "Home Page",
-                                    "url": "http://www.grovo.com/"
-                                },
-                                {
+                                    "title": "Homepage",
+                                    "url": "https://www.grovo.com/"
+                                }, {
                                     "type": "link",
-                                    "title": "Demo",
-                                    "url": "https://demo.grovo.com/"
-                                },
-                                {
+                                    "title": "Galaxy",
+                                    "url": "https://galaxy.grovo.com/"
+                                }, {
                                     "type": "link",
-                                    "title": "LDAP",
-                                    "url": "https://ldap.grovo.net"
-                                },
-                                {
+                                    "title": "Grovo Demo",
+                                    "url": "https://demo.grovo.com/login"
+                                }, {
                                     "type": "link",
-                                    "title": "Kibana",
-                                    "url": "https://kibana.grovo.net/"
-                                },
-                                {
+                                    "title": "Service Desk",
+                                    "url": "https://grovolearning.atlassian.net/servicedesk/customer/portal/3"
+                                }, {
                                     "type": "link",
-                                    "title": "Confluence",
-                                    "url": "https://grovolearning.atlassian.net/wiki/"
-                                }
-                            ]
-                        },
-                        {
-                            "heading": "Directories",
-                            "entries": [
-                                {
+                                    "title": "OneLogin",
+                                    "url": "https://grovo.onelogin.com/"
+                                }, {
                                     "type": "link",
-                                    "title": "Engineering Team",
-                                    "url": "https://grovolearning.atlassian.net/wiki/display/ENG/Engineering+Team"
-                                }
-                            ]
-                        },
-                        {
-                            "heading": "Fitness Center",
-                            "entries": [
-                                {
+                                    "title": "Slack",
+                                    "url": "https://grovo.slack.com/"
+                                }, {
                                     "type": "link",
-                                    "title": "Fitness Class Schedule",
+                                    "title": "Fitness Schedule",
                                     "url": "https://docs.google.com/spreadsheets/d/1x6n0fVY4WqNnOmecY7B_Nh5xbUuQgb-lP8f0we52nwk/edit#gid=0&vpid=A4"
+                                }
+                            ]
+                        }, {
+                            "heading": "Services",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Uber",
+                                    "url": "https://www.uber.com/"
+                                }, {
+                                    "type": "link",
+                                    "title": "Seamless",
+                                    "url": "https://www.seamless.com/"
+                                }
+                            ]
+                        }, {
+                            "heading": "Google Office",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Google Drive",
+                                    "url": "https://drive.google.com/"
+                                }, {
+                                    "type": "link",
+                                    "title": "Google Docs",
+                                    "url": "https://docs.google.com/"
+                                }, {
+                                    "type": "link",
+                                    "title": "Google Sheets",
+                                    "url": "https://sheets.google.com/"
+                                }, {
+                                    "type": "link",
+                                    "title": "Google Slides",
+                                    "url": "https://slides.google.com/"
                                 }
                             ]
                         }
                     ]
-                },
-                {
+                }, {
                     "name": "Forest",
                     "sections": [
                         {
-                            "heading": "Agendas",
+                            "heading": "Tools",
                             "entries": [
                                 {
                                     "type": "link",
-                                    "title": "Forest Weekly Agenda",
-                                    "url": "https://docs.google.com/document/d/1Jms3F6dHxC5BXbZkZ2uOU7ERXxl6GhtVTj_oPZDEJdM/"
-                                }
-                            ]
-                        },
-                        {
-                            "heading": "Jira",
-                            "entries": [
-                                {
+                                    "title": "Jira",
+                                    "url": "https://grovolearning.atlassian.net/secure/Dashboard.jspa"
+                                }, {
                                     "type": "link",
-                                    "title": "All Project Types - All Categories",
-                                    "url": "https://grovolearning.atlassian.net/secure/BrowseProjects.jspa?selectedCategory=all"
-                                },
-                                {
-                                    "type": "separator"
-                                },
-                                {
+                                    "title": "Confluence",
+                                    "url": "https://grovolearning.atlassian.net/wiki/"
+                                }, {
                                     "type": "link",
-                                    "title": "Field & Forest Handbook",
+                                    "title": "Weekly Agenda",
+                                    "url": "https://docs.google.com/document/d/1Jms3F6dHxC5BXbZkZ2uOU7ERXxl6GhtVTj_oPZDEJdM/edit#"
+                                }, {
+                                    "type": "link",
+                                    "title": "Forest Handbook",
                                     "url": "https://docs.google.com/document/d/1i7Uyz1D6YifJN35Vn4DK8BlZrPO8u4bptrZz5ymuSz0/edit#"
-                                }
-                            ]
-                        },
-                        {
-                            "heading": "Design Documents",
-                            "entries": [
-                                {
+                                }, {
                                     "type": "link",
                                     "title": "MVP Design Guide",
-                                    "url": "https://docs.google.com/document/d/1M8q89lbpwMExjz4Tv5zzms_9q50IoUZmHay59qjxfs0/edit#heading=h.s8f7ks8nqhtd"
-                                },
-                                {
-                                    "type": "separator"
-                                },
+                                    "url": "https://docs.google.com/document/d/1M8q89lbpwMExjz4Tv5zzms_9q50IoUZmHay59qjxfs0/edit"
+                                }, {
+                                    "type": "link",
+                                    "title": "List of Tools",
+                                    "url": "https://grovolearning.atlassian.net/wiki/display/INFRA/Tools"
+                                }
+
+                            ]
+                        }
+                    ]
+                }, {
+                    "name": "Product",
+                    "sections": [
+                        {
+                            "heading": "Links Needed...",
+                            "entries": [
                                 {
                                     "type": "link",
-                                    "title": "Auth(orization|entication) Services",
-                                    "url": "https://docs.google.com/a/grovo.com/document/d/1sd0RVpTpK6qTHFLvdJRNxXEpFWy5WGaAnhq_vznLayA/edit?usp=sharing"
+                                    "title": "Trello",
+                                    "url": "https://www.trello.com"
+                                }, {
+                                    "type": "link",
+                                    "title": "Request More Links...",
+                                    "url": "mailto:dduleone@grovo.com"
                                 }
                             ]
-                        },
+                        }
+                    ]
+                }, {
+                    "name": "Content",
+                    "sections": [
                         {
-                            "heading": "GitHub",
+                            "heading": "Links Needed...",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Request More Links...",
+                                    "url": "mailto:dduleone@grovo.com"
+                                }
+                            ]
+                        }
+                    ]
+                }, {
+                    "name": "Design",
+                    "sections": [
+                        {
+                            "heading": "Links Needed...",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Trello",
+                                    "url": "https://www.trello.com"
+                                }, {
+                                    "type": "link",
+                                    "title": "Request More Links...",
+                                    "url": "mailto:dduleone@grovo.com"
+                                }
+                            ]
+                        }
+                    ]
+                }, {
+                    "name": "Engineering",
+                    "sections": [
+                        {
+                            "heading": "Planning",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Jira - G2",
+                                    "url": "https://grovolearning.atlassian.net/secure/RapidBoard.jspa?rapidView=94&projectKey=G2&view=planning.nodetail&epics=visible"
+                                }, {
+                                    "type": "link",
+                                    "title": "Jell",
+                                    "url": "https://www.jell.com/"
+                                }
+                            ]
+                        }, {
+                            "heading": "Services",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "CircleCI",
+                                    "url": "https://www.circleci.com/"
+                                }, {
+                                    "type": "link",
+                                    "title": "DockerHub",
+                                    "url": "https://www.dockerhub.com/"
+                                }, {
+                                    "type": "link",
+                                    "title": "SignalFX",
+                                    "url": "https://app.signalfx.com"
+                                }
+                            ]
+                        }, {
+                            "heading": "Access",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "LDAP",
+                                    "url": "https://ldap.grovo.net/"
+                                }, {
+                                    "type": "link",
+                                    "title": "VPN Access (.com)",
+                                    "url": "https://vpn.grovo.com/"
+                                }, {
+                                    "type": "link",
+                                    "title": "VPN Access (.net)",
+                                    "url": "https://vpn.grovo.net/"
+                                }
+                            ]
+                        }
+                    ]
+                }, {
+                    "name": "Services",
+                    "sections": [
+                        {
+                            "heading": "Production",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Zipkin",
+                                    "url": "https://zipkin.grovo.com"
+                                }, {
+                                    "type": "link",
+                                    "title": "Kibana",
+                                    "url": "https://kibana.grovo.com"
+                                }, {
+                                    "type": "link",
+                                    "title": "Marathon",
+                                    "url": "https://marathon-app.grovo.com"
+                                }
+                            ]
+                        }, {
+                            "heading": "Development",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Zipkin",
+                                    "url": "https://zipkin.grovo.net"
+                                }, {
+                                    "type": "link",
+                                    "title": "Kibana",
+                                    "url": "https://kibana.grovo.net"
+                                }, {
+                                    "type": "link",
+                                    "title": "Marathon",
+                                    "url": "https://marathon-app.grovo.net"
+                                }
+                            ]
+                        }
+                    ]
+                }, {
+                    "name": "Github",
+                    "sections": [
+                        {
+                            "heading": "More Services Coming Soon...",
                             "entries": [
                                 {
                                     "type": "link",
                                     "title": "All Repos",
                                     "url": "https://github.com/GrovoLearning"
-                                },
-                                {
+                                }, {
                                     "type": "separator"
-                                },
-                                {
+                                }, {
                                     "type": "link",
-                                    "title": "Rhino",
-                                    "url": "https://github.com/GrovoLearning/rhino"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "Odin",
-                                    "url": "https://github.com/GrovoLearning/odin"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "Silva",
-                                    "url": "https://github.com/GrovoLearning/silva"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "Chef Data Bags",
-                                    "url": "https://github.com/GrovoLearning/grovo-chef-repo"
-                                }
-                            ]
-                        },
-                        {
-                            "heading": "Hack Time",
-                            "entries": [
-                                {
-                                    "type": "link",
-                                    "title": "Hack Time Projects",
-                                    "url": "https://grovolearning.atlassian.net/wiki/display/GKB/Hack+time+projects"
+                                    "title": "Authentication",
+                                    "url": "https://github.com/GrovoLearning/grovo-service-authn"
                                 }
                             ]
                         }
                     ]
-                },
-                {
-                    "name": "Clubz",
-                    "sections": [
-                        {
-                            "heading": "Links",
-                            "entries": [
-                                {
-                                    "type": "link",
-                                    "title": "Propose A New Club",
-                                    "url": "https://docs.google.com/forms/d/1LJjhpouPhFyYpnWyfAHtBq647zb-yJJSw0DcgnEdfg8/viewform"
-                                },
-                                {
-                                    "type": "separator"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "Join A Club",
-                                    "url": "http://www.grovo.com/#3"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "30th Floor",
-                    "sections": [
-                        {
-                            "heading": "Sub Section 1",
-                            "entries": [
-                                {
-                                    "type": "link",
-                                    "title": "URL 1",
-                                    "url": "http://www.grovo.com/#1"
-                                },
-                                {
-                                    "type": "separator"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "URL 3",
-                                    "url": "http://www.grovo.com/#3"
-                                }
-                            ]
-                        },
-                        {
-                            "heading": "Sub Section 2",
-                            "entries": [
-                                {
-                                    "type": "link",
-                                    "title": "URL 1",
-                                    "url": "http://www.grovo.com/#1"
-                                },
-                                {
-                                    "type": "separator"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "URL 2",
-                                    "url": "http://www.grovo.com/#2"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "On Boarding",
-                    "sections": [
-                        {
-                            "heading": "Everyone",
-                            "entries": [
-                                {
-                                    "type": "link",
-                                    "title": "VPN",
-                                    "url": "https://grovolearning.atlassian.net/wiki/display/INFRA/Set-up+Grovo+VPN"
-                                }
-                            ]
-                        },
-                        {
-                            "heading": "Engineers",
-                            "entries": [
-                                {
-                                    "type": "link",
-                                    "title": "Tools",
-                                    "url": "https://grovolearning.atlassian.net/wiki/display/INFRA/Tools"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
+                }, {
                     "name": "Social",
                     "sections": [
                         {
@@ -253,16 +283,14 @@
                                     "type": "link",
                                     "title": "Facebook",
                                     "url": "https://www.facebook.com/Grovo/"
-                                },
-                                {
-                                    "type": "link",
-                                    "title": "LinkedIn",
-                                    "url": "https://www.linkedin.com/company/grovo"
-                                },
-                                {
+                                }, {
                                     "type": "link",
                                     "title": "Twitter",
-                                    "url": "https://twitter.com/grovo"
+                                    "url": "https://twitter.com/grovo/"
+                                }, {
+                                    "type": "link",
+                                    "title": "LinkedIn",
+                                    "url": "https://www.linkedin.com/company/grovo/"
                                 }
                             ]
                         }
