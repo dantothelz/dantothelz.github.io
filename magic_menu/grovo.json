@@ -241,6 +241,10 @@
                                     "type": "link",
                                     "title": "Marathon",
                                     "url": "https://marathon-app.grovo.com"
+                                }, {
+                                    "type": "link",
+                                    "title": "Tyk Gateway",
+                                    "url": "http://tyk-dashboard.grovo.com"
                                 }
                             ]
                         }, {
@@ -258,6 +262,10 @@
                                     "type": "link",
                                     "title": "Marathon",
                                     "url": "https://marathon-app.grovo.net"
+                                }, {
+                                    "type": "link",
+                                    "title": "Tyk Gateway",
+                                    "url": "http://tyk-dashboard.grovo.net"
                                 }
                             ]
                         }
