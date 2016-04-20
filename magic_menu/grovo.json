@@ -1,7 +1,7 @@
 {
     "menudef": {
         "extension_version": "1.0",
-        "menu_set": "1.1.5",
+        "menu_set": "1.1.6",
         "menu_name": "Grovo Bookmarks",
         "contents": {
             "groups": [
@@ -188,23 +188,6 @@
                                 }
                             ]
                         }, {
-                            "heading": "Services",
-                            "entries": [
-                                {
-                                    "type": "link",
-                                    "title": "CircleCI",
-                                    "url": "https://www.circleci.com/"
-                                }, {
-                                    "type": "link",
-                                    "title": "DockerHub",
-                                    "url": "https://hub.docker.com/u/grovo/dashboard/"
-                                }, {
-                                    "type": "link",
-                                    "title": "SignalFX",
-                                    "url": "https://app.signalfx.com"
-                                }
-                            ]
-                        }, {
                             "heading": "Access",
                             "entries": [
                                 {
@@ -224,9 +207,26 @@
                         }
                     ]
                 }, {
-                    "name": "Services",
+                    "name": "Engineering Services",
                     "sections": [
                         {
+                            "heading": "All Environments",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "CircleCI",
+                                    "url": "https://www.circleci.com/"
+                                }, {
+                                    "type": "link",
+                                    "title": "DockerHub",
+                                    "url": "https://hub.docker.com/u/grovo/dashboard/"
+                                }, {
+                                    "type": "link",
+                                    "title": "SignalFX",
+                                    "url": "https://app.signalfx.com"
+                                }
+                            ]
+                        }, {
                             "heading": "Production",
                             "entries": [
                                 {
