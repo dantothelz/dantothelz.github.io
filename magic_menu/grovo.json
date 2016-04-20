@@ -1,7 +1,7 @@
 {
     "menudef": {
         "extension_version": "1.0",
-        "menu_set": "1.1.6",
+        "menu_set": "1.1.7",
         "menu_name": "Grovo Bookmarks",
         "contents": {
             "groups": [
@@ -118,56 +118,6 @@
                                     "url": "https://grovolearning.atlassian.net/wiki/display/INFRA/Tools"
                                 }
 
-                            ]
-                        }
-                    ]
-                }, {
-                    "name": "Product",
-                    "sections": [
-                        {
-                            "heading": "Links Needed...",
-                            "entries": [
-                                {
-                                    "type": "link",
-                                    "title": "Trello",
-                                    "url": "https://www.trello.com"
-                                }, {
-                                    "type": "link",
-                                    "title": "Request More Links...",
-                                    "url": "http://goo.gl/forms/U66LISwW64"
-                                }
-                            ]
-                        }
-                    ]
-                }, {
-                    "name": "Content",
-                    "sections": [
-                        {
-                            "heading": "Links Needed...",
-                            "entries": [
-                                {
-                                    "type": "link",
-                                    "title": "Request More Links...",
-                                    "url": "http://goo.gl/forms/U66LISwW64"
-                                }
-                            ]
-                        }
-                    ]
-                }, {
-                    "name": "Design",
-                    "sections": [
-                        {
-                            "heading": "Links Needed...",
-                            "entries": [
-                                {
-                                    "type": "link",
-                                    "title": "Trello",
-                                    "url": "https://www.trello.com"
-                                }, {
-                                    "type": "link",
-                                    "title": "Request More Links...",
-                                    "url": "http://goo.gl/forms/U66LISwW64"
-                                }
                             ]
                         }
                     ]
