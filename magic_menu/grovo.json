@@ -1,7 +1,7 @@
 {
     "menudef": {
         "extension_version": "1.0",
-        "menu_set": "1.1.4",
+        "menu_set": "1.1.5",
         "menu_name": "Grovo Bookmarks",
         "contents": {
             "groups": [
@@ -197,7 +197,7 @@
                                 }, {
                                     "type": "link",
                                     "title": "DockerHub",
-                                    "url": "https://www.dockerhub.com/"
+                                    "url": "https://hub.docker.com/u/grovo/dashboard/"
                                 }, {
                                     "type": "link",
                                     "title": "SignalFX",
