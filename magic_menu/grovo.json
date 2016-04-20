@@ -284,6 +284,10 @@
                                     "type": "separator"
                                 }, {
                                     "type": "link",
+                                    "title": "Microservices",
+                                    "url": "https://github.com/search?p=2&q=user%3AGrovoLearning+grovo-service+in%3Aname&type=Repositories&utf8=%E2%9C%93"
+                                }, {
+                                    "type": "link",
                                     "title": "Authentication",
                                     "url": "https://github.com/GrovoLearning/grovo-service-authn"
                                 }
