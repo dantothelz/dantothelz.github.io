@@ -1,7 +1,7 @@
 {
     "menudef": {
         "extension_version": "1.0",
-        "menu_set": "1.1.0",
+        "menu_set": "1.1.1",
         "menu_name": "Grovo Bookmarks",
         "contents": {
             "groups": [
@@ -125,7 +125,7 @@
                                 }, {
                                     "type": "link",
                                     "title": "Request More Links...",
-                                    "url": "mailto:dduleone@grovo.com"
+                                    "url": "http://goo.gl/forms/U66LISwW64"
                                 }
                             ]
                         }
@@ -139,7 +139,7 @@
                                 {
                                     "type": "link",
                                     "title": "Request More Links...",
-                                    "url": "mailto:dduleone@grovo.com"
+                                    "url": "http://goo.gl/forms/U66LISwW64"
                                 }
                             ]
                         }
@@ -157,7 +157,7 @@
                                 }, {
                                     "type": "link",
                                     "title": "Request More Links...",
-                                    "url": "mailto:dduleone@grovo.com"
+                                    "url": "http://goo.gl/forms/U66LISwW64"
                                 }
                             ]
                         }
