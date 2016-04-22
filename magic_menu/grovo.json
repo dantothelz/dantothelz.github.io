@@ -1,7 +1,7 @@
 {
     "menudef": {
         "extension_version": "1.1",
-        "menu_set": "1.1.8",
+        "menu_set": "1.1.9",
         "menu_name": "Grovo Bookmarks",
         "contents": {
             "groups": [
@@ -135,6 +135,10 @@
                                     "type": "link",
                                     "title": "Jell",
                                     "url": "https://www.jell.com/"
+                                }, {
+                                    "type": "link",
+                                    "title": "Architecture Guide - v2",
+                                    "url": "https://docs.google.com/document/d/1S0RvZKbwnJ2GL-Yzqv8AsamqGqAUfBA03l5ZvwgCWME/edit"
                                 }
                             ]
                         }, {
