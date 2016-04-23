@@ -1,7 +1,7 @@
 {
     "menudef": {
         "extension_version": "1.1",
-        "menu_set": "1.1.10",
+        "menu_set": "1.1.11",
         "menu_name": "Grovo Bookmarks",
         "contents": {
             "groups": [
@@ -106,6 +106,20 @@
                                     "url": "https://docs.google.com/document/d/1Jms3F6dHxC5BXbZkZ2uOU7ERXxl6GhtVTj_oPZDEJdM/edit#"
                                 }, {
                                     "type": "link",
+                                    "title": "List of Tools",
+                                    "url": "https://grovolearning.atlassian.net/wiki/display/INFRA/Tools"
+                                }
+
+                            ]
+                        }, {
+                            "heading" : "Documentation",
+                            "entries" : [
+                                {
+                                    "type": "link",
+                                    "title": "Principles of the Forest",
+                                    "url": "https://docs.google.com/presentation/d/1YQAFQDLt1ixkW9M3kmsn3TvRWB7ccGZjqy3psCgSWUo/edit"
+                                }, {
+                                    "type": "link",
                                     "title": "Forest Handbook",
                                     "url": "https://docs.google.com/document/d/1i7Uyz1D6YifJN35Vn4DK8BlZrPO8u4bptrZz5ymuSz0/edit#"
                                 }, {
@@ -116,12 +130,7 @@
                                     "type": "link",
                                     "title": "MVP Design Guide",
                                     "url": "https://docs.google.com/document/d/1M8q89lbpwMExjz4Tv5zzms_9q50IoUZmHay59qjxfs0/edit"
-                                }, {
-                                    "type": "link",
-                                    "title": "List of Tools",
-                                    "url": "https://grovolearning.atlassian.net/wiki/display/INFRA/Tools"
                                 }
-
                             ]
                         }
                     ]
