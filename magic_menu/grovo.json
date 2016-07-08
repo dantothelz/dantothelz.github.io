@@ -1,7 +1,7 @@
 {
     "menudef": {
         "extension_version": "1.1",
-        "menu_set": "1.1.11",
+        "menu_set": "1.2.0",
         "menu_name": "Grovo Bookmarks",
         "contents": {
             "groups": [
@@ -82,6 +82,24 @@
                                     "type": "link",
                                     "title": "Request New Link...",
                                     "url": "http://goo.gl/forms/U66LISwW64"
+                                }
+                            ]
+                        }
+                    ]
+                }, {
+                    "name": "Grovo 2",
+                    "sections": [
+                        {
+                            "heading": "Grovo Galaxy Links",
+                            "entries": [
+                                {
+                                    "type": "link",
+                                    "title": "Grovo 2 Dashboard",
+                                    "url": "https://docs.google.com/spreadsheets/d/1GgVhoXox8OwpRW5eujZ2OkWdtFh-1guwvVYWy-qMyBw/edit#gid=0"
+                                }, {
+                                    "type": "link",
+                                    "title": "Grovo 2 Kanban Board",
+                                    "url": "https://grovolearning.atlassian.net/secure/RapidBoard.jspa?rapidView=103&view=detail"
                                 }
                             ]
                         }
